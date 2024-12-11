@@ -1,0 +1,3 @@
+Capítulo 1: Introducción a Programación
+Capítulo 2: Sentencias de iteracion
+Capítulo 3: Bucles
